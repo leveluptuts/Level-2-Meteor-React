@@ -1,0 +1,10 @@
+{
+  "admins" : [
+    "scott.tolinski@gmail.com",
+    "scott.tolinski@gmail.co",
+    "scott.tolinski@gmail.c"
+  ],
+  "public": {
+
+  }
+}
